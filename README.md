@@ -5,6 +5,6 @@ Exemplo de execução:
 
 \int_0^1x^{2} dx
 
-```shell
+```sql
 $ python3 main.py 0 1 3 'x**2'
 ```
